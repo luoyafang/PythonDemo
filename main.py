@@ -6,3 +6,4 @@ import machine
 
 print('************this is a demo************')
 print('************hahahahahaha************')
+print('************this is a demo************')
